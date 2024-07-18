@@ -9,6 +9,9 @@ target/
 *.iml
 *.ipr
 
+### Jupyter Checkpoints
+.ipynb_checkpoints/*
+
 ### Eclipse ###
 .apt_generated
 .classpath
