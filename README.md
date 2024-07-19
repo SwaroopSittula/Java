@@ -1,10 +1,15 @@
 # Java
 
-- [DataTypes](src/main/java/DataTypes)
+- [Data Types](src/main/java/DataTypes)
+  - Primitive Data Types
+  - Wrapper Classes
+  - Autoboxing and Unboxing
+- [Print](src/main/java/JavaPrint)
+- [Java Variable Arguments](src/main/java/VariableArguments)
 - [Streams](src/main/java/Streams)
 - OOPs
-- [JavaReflection](src/main/java/JavaReflection)
-- [DesignPatterns](src/main/java/DesignPatterns)
+- [Java Reflection](src/main/java/JavaReflection)
+- [Design Patterns](src/main/java/DesignPatterns)
 - [Problems](src/main/java/Problems)
 
 
