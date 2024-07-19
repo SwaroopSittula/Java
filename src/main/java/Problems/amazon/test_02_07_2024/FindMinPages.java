@@ -1,4 +1,4 @@
-package amazon.test_02_07_2024;
+package Problems.amazon.test_02_07_2024;
 
 import java.util.*;
 

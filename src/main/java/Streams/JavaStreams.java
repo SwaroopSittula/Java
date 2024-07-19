@@ -1,11 +1,8 @@
+package Streams;
+
 import java.util.*;
 
 public class JavaStreams {
-
-    void StreamCreation() {
-        int[] a = new int[5];
-
-    }
 
     /**
      * Class Demonstrates conversion of a Hashset<Integer> to List<String> using

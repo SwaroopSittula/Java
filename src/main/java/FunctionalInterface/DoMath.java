@@ -1,4 +1,4 @@
-package org.code.functionalinterface;
+package FunctionalInterface;
 
 /***
  * An Interface that contains exactly one abstract method is known as functional interface.
@@ -26,7 +26,7 @@ interface BasicMath{
         }
 
         static Integer reverse(Integer x){
-            Integer rev = 0;
+            int rev = 0;
             while(x!=0){
                 rev = (rev * 10) + (x%10);
                 x /= 10;
@@ -78,7 +78,7 @@ public class DoMath {
         System.out.println(BasicMath.reverse(x*y));
         System.out.println(BasicMath.reverseRecursive(-2341));
 
-        System.out.println(addition.toString());
+        System.out.println(addition);
     }
 
 }
