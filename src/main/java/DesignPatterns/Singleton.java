@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton;
+package DesignPatterns;
 
 class SingletonClass {
     private static SingletonClass singleton = null;
@@ -13,6 +13,7 @@ class SingletonClass {
     }
 }
 
+// Singleton Pattern
 public class Singleton {
     public static void main(String[] args) {
         SingletonClass s1 = SingletonClass.getSingleInstance();
