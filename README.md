@@ -13,9 +13,9 @@
 - [Java Reflection](src/main/java/JavaReflection)
 - [Design Patterns](src/main/java/DesignPatterns)
 - Logging
-  - [MDC]()
+  - [MDC](src/main/java/Logging/MDC.ipynb)
 - [Misc]
-  - [MD5]()
+  - [Cryptographic Hash Functions](/src/main/java/Misc/HashFunctions.ipynb)
 - [Problems](src/main/java/Problems)
 
 
