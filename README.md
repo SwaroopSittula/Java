@@ -14,11 +14,12 @@ This project is documentation of Java Concepts.
 
 ## List of Chapters
 
-- [Data Types](src/main/java/DataTypes/DataTypes.ipynb)
-  - Primitive Data Types
-  - Wrapper Classes
-  - Autoboxing and Unboxing
-  - Wrapper Classes Advantages
+- [Data Types]
+  - [Primitive Data Types vs Wrapper Classes](src/main/java/DataTypes/PrimitiveVsWrapper.ipynb)
+    - Primitive Data Types
+    - Wrapper Classes
+    - Autoboxing and Unboxing
+    - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
 - [Print](src/main/java/JavaPrint/Print.ipynb)
 - [Java Variable Arguments](src/main/java/VariableArguments/Varargs.ipynb)
