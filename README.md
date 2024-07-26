@@ -21,6 +21,7 @@ This project is documentation of Java Concepts.
     - Autoboxing and Unboxing
     - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
+- [Java Operators](src/main/java/Operators/Operators.ipynb)
 - [Print](src/main/java/JavaPrint/Print.ipynb)
 - [Java Variable Arguments](src/main/java/VariableArguments/Varargs.ipynb)
 - [Streams](src/main/java/Streams/Streams.ipynb)
