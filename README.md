@@ -1,6 +1,7 @@
 # Java
 
-This project is documentation of Java Concepts.
+This project is documentation of Java Concepts. \
+Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/java?badge_type=java).
 
 
 
@@ -14,13 +15,15 @@ This project is documentation of Java Concepts.
 
 ## List of Chapters
 
-- [Data Types]
+- [Data Types](src/main/java/DataTypes)
+  - [Java Data Types Classification](src/main/java/DataTypes/DataTypes.ipynb)
   - [Primitive Data Types vs Wrapper Classes](src/main/java/DataTypes/PrimitiveVsWrapper.ipynb)
     - Primitive Data Types
     - Wrapper Classes
     - Autoboxing and Unboxing
     - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
+  - [Abstract Data Types]()
 - [Java Operators](src/main/java/Operators/Operators.ipynb)
 - [Print](src/main/java/JavaPrint/Print.ipynb)
 - [Java Variable Arguments](src/main/java/VariableArguments/Varargs.ipynb)
@@ -64,4 +67,8 @@ This Project contains Jupyter notebook(ipynb), Markdown(md), and Java(java) File
 
 ## References
 
-- https://docs.oracle.com/javase/tutorial/index.html
+- Oracle Java Doc - https://docs.oracle.com/javase/tutorial/index.html
+- HackerRank - https://www.hackerrank.com/domains/java?badge_type=java
+- Code360 - https://www.naukri.com/code360/home/goals (learning path)
+- Coursera
+  - https://www.coursera.org/learn/data-structures--backend-with-java (paid)
