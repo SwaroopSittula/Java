@@ -15,6 +15,8 @@ Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/ja
 
 ## List of Chapters
 
+### Chapter 1: Fundamentals of Java
+- [Introduction to Java]
 - [Data Types](src/main/java/DataTypes)
   - [Java Data Types Classification](src/main/java/DataTypes/DataTypes.ipynb)
   - [Primitive Data Types vs Wrapper Classes](src/main/java/DataTypes/PrimitiveVsWrapper.ipynb)
@@ -24,17 +26,28 @@ Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/ja
     - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
   - [Abstract Data Types]()
+- [Basic I/O in Java]
+  - Input
+  - [Output](src/main/java/JavaBasicIO/Output.ipynb)
 - [Java Operators](src/main/java/Operators/Operators.ipynb)
-- [Print](src/main/java/JavaPrint/Print.ipynb)
-- [Java Variable Arguments](src/main/java/VariableArguments/Varargs.ipynb)
-- [Streams](src/main/java/Streams/Streams.ipynb)
+- [Java Control Statements]
+- [Methods in Java]
+  - [Java Variable Arguments](src/main/java/JavaMethods/Varargs.ipynb)
+
+### Chapter 2: Basic Data Structures & OOPs in Java
+- Data Structures
 - OOPs
+
+- [Streams](src/main/java/Streams/Streams.ipynb)
 - [Java Reflection](src/main/java/JavaReflection)
 - [Design Patterns](src/main/java/DesignPatterns)
 - Logging
   - [MDC](src/main/java/Logging/MDC.ipynb)
 - [Misc]
   - [Cryptographic Hash Functions](/src/main/java/Misc/HashFunctions.ipynb)
+  - [Exponentiation]()
+    - Binary Exponentiation
+    - Matrix Exponentiation
 - [Problems](src/main/java/Problems)
 
 
