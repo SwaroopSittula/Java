@@ -1,7 +1,6 @@
 # Java
 
-This project is documentation of Java Concepts. \
-Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/java?badge_type=java).
+This project is documentation of Java Concepts. 
 
 
 
@@ -15,13 +14,19 @@ Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/ja
 
 ## List of Chapters
 
-### Chapter 1: Fundamentals of Java
+<details>
+<summary>
+
+### 1. Fundamentals of Java
+</summary>
+
 - [Introduction to Java]
 - [Data Types](src/main/java/DataTypes)
   - [Java Data Types Classification](src/main/java/DataTypes/DataTypes.ipynb)
+    - Primitive
+    - Non-Primitive
   - [Primitive Data Types vs Wrapper Classes](src/main/java/DataTypes/PrimitiveVsWrapper.ipynb)
-    - Primitive Data Types
-    - Wrapper Classes
+    - Primitive Data Types vs Wrapper Classes
     - Autoboxing and Unboxing
     - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
@@ -33,14 +38,46 @@ Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/ja
 - [Java Control Statements]
 - [Methods in Java]
   - [Java Variable Arguments](src/main/java/JavaMethods/Varargs.ipynb)
+</details>
 
-### Chapter 2: Basic Data Structures & OOPs in Java
+
+<details>
+<summary>
+
+### 2. Basic Data Structures and OOPs
+</summary>
+
 - Data Structures
+  - Introduction
+  - Strings
+  - Arrays
+  - Linked Lists
+  - Stacks & Queues
 - OOPs
+</details>
+
+
+<details>
+<summary>
+
+### 4. Advanced Java
+</summary>
+
+- [JDBC](src/main/java/JDBC)
+  - Introduction
+- [Design Patterns](src/main/java/DesignPatterns)
+  - 
+</details>
+
+
+<details>
+<summary>
+
+### Others
+</summary>
 
 - [Streams](src/main/java/Streams/Streams.ipynb)
 - [Java Reflection](src/main/java/JavaReflection)
-- [Design Patterns](src/main/java/DesignPatterns)
 - Logging
   - [MDC](src/main/java/Logging/MDC.ipynb)
 - [Misc]
@@ -48,6 +85,9 @@ Some of the examples are from [HackerRank](https://www.hackerrank.com/domains/ja
   - [Exponentiation]()
     - Binary Exponentiation
     - Matrix Exponentiation
+</details>
+
+### Codes
 - [Problems](src/main/java/Problems)
 
 
