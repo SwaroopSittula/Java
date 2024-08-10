@@ -65,8 +65,10 @@ This project is documentation of Java Concepts.
 
 - [JDBC](src/main/java/JDBC)
   - Introduction
-- [Design Patterns](src/main/java/DesignPatterns)
-  - 
+- [Design Patterns](src/main/java/DesignPatterns/DesignPatterns.md)
+    - Types of Design Patterns
+    - List of Design Patterns
+- [Java Build Tools](src/main/java/JavaBuildTools/JavaBuildTools.md)
 </details>
 
 
