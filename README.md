@@ -21,12 +21,13 @@ This project is documentation of Java Concepts.
 </summary>
 
 - [Introduction to Java]
+- Java Variables and Keywords
 - [Data Types](src/main/java/DataTypes)
   - [Java Data Types Classification](src/main/java/DataTypes/DataTypes.ipynb)
     - Primitive
     - Non-Primitive
   - [Primitive Data Types vs Wrapper Classes](src/main/java/DataTypes/PrimitiveVsWrapper.ipynb)
-    - Primitive Data Types vs Wrapper Classes
+    - Primitive Data Types vs. Wrapper Classes
     - Autoboxing and Unboxing
     - Wrapper Classes Advantages
   - [Type Conversion](src/main/java/DataTypes/TypeConversion.md)
@@ -44,15 +45,25 @@ This project is documentation of Java Concepts.
 <details>
 <summary>
 
-### 2. Basic Data Structures and OOPs
+### 2. Basic Data Structures
 </summary>
 
+[//]: # (Basic intro + self implementations)
 - Data Structures
   - Introduction
   - Strings
   - Arrays
   - Linked Lists
   - Stacks & Queues
+</details>
+
+
+<details>
+<summary>
+
+### 3. Object-Oriented Programming (OOPs)
+</summary>
+
 - OOPs
 </details>
 
@@ -69,6 +80,11 @@ This project is documentation of Java Concepts.
     - Types of Design Patterns
     - List of Design Patterns
 - [Java Build Tools](src/main/java/JavaBuildTools/JavaBuildTools.md)
+- [Java Testing Tools]
+  - Test Automation Frameworks
+- [Java Frameworks]
+  - Spring Boot
+  - Hibernate
 </details>
 
 
@@ -125,5 +141,9 @@ This Project contains Jupyter notebook(ipynb), Markdown(md), and Java(java) File
 - Oracle Java Doc - https://docs.oracle.com/javase/tutorial/index.html
 - HackerRank - https://www.hackerrank.com/domains/java?badge_type=java
 - Code360 - https://www.naukri.com/code360/home/goals (learning path)
+- Geeks for Geeks
+  - [Learn Java in 20 days](https://www.geeksforgeeks.org/learn-java-on-your-own-in-20-days-free/)
+- CMU School of Compute Science
+  - [Teach Yourself Java in 21 days (LearnJava.pdf)](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf)
 - Coursera
   - https://www.coursera.org/learn/data-structures--backend-with-java (paid)

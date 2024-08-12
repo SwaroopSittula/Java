@@ -8,7 +8,11 @@ Java build tools are utilities that automate the process of compiling, packaging
 
 ## Popular Java Build Tools
 
+- [ ] Content to be updated
+
 ## Maven vs Gradle
+
+- [ ] Content to be updated
 
 ## Choosing the Right Tool
 
