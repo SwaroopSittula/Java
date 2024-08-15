@@ -1,5 +1,5 @@
 // https://docs.oracle.com/javase/tutorial/reflect/class/classMembers.html
-package JavaReflection;
+package CoreJava.JavaReflection;
 
 import java.lang.reflect.*;
 import java.util.*;

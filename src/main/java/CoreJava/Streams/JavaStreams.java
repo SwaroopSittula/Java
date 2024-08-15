@@ -1,4 +1,4 @@
-package Streams;
+package CoreJava.Streams;
 
 import java.util.*;
 

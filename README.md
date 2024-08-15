@@ -102,18 +102,20 @@ This project is documentation of Java Concepts.
 - Multithreading
 - Generics
 - Optional
-- [Java Reflection](src/main/java/JavaReflection)
+- [Java Reflection](src/main/java/CoreJava/JavaReflection)
 - [Java Functional Programming]
-  - [Functional Interface](src/main/java/FunctionalInterface/DoMath.java)
-  - [Java Stream API](src/main/java/Streams/Streams.ipynb)
+  - [Functional Interface](src/main/java/CoreJava/FunctionalInterface/DoMath.java)
+  - [Java Stream API](src/main/java/CoreJava/Streams/Streams.ipynb)
     - References
       - https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html
       - https://www.geeksforgeeks.org/difference-between-streams-and-collections-in-java/
+</details>
+
 
 <details>
 <summary>
 
-#### Core Java Deep Dive
+### 5. Core Java Deep Dive
 </summary>
 
 - [Design Patterns](src/main/java/DesignPatterns/DesignPatterns.md)
@@ -125,17 +127,16 @@ This project is documentation of Java Concepts.
   - Garbage Collection
   - Class Loading
 - Performance Tuning & Optimization
-  - Profiling Java applications 
-  - Identifying performance bottlenecks 
+  - Profiling Java applications
+  - Identifying performance bottlenecks
   - Optimization techniques
-</details>
 </details>
 
 
 <details>
 <summary>
 
-### 5. Advanced Java
+### 6. Advanced Java
 </summary>
 
 - [JDBC](src/main/java/JDBC)
@@ -159,7 +160,7 @@ This project is documentation of Java Concepts.
 <details>
 <summary>
 
-### Misc
+### 7. Misc
 </summary>
 
 - Logging

@@ -1,4 +1,4 @@
-package FunctionalInterface;
+package CoreJava.FunctionalInterface;
 
 /***
  * An Interface that contains exactly one abstract method is known as functional interface.

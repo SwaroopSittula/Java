@@ -44,8 +44,8 @@
 * Sorting objects
 
 ### Module 7: Additional Topics (Optional)
-* Streams API (Introduction)
-* Parallel Streams
+* CoreJava.Streams API (Introduction)
+* Parallel CoreJava.Streams
 * Collectors
 * Optional: Functional Programming concepts
 
