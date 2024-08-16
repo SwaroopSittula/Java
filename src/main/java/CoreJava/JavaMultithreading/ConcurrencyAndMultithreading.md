@@ -1,4 +1,9 @@
+<div align="right">
+
 #  Java Concurrency & Multithreading
+| [Next &rarr;](Threads.md)
+</div>
+
 
 
 ## Concurrency
@@ -62,5 +67,10 @@
 
 * Youtube
   * [Java Concurrency and Multithreading @ Jakob Jenkov](https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4)
-  * https://www.youtube.com/watch?v=WldMTtUWqTg
 * https://www.linkedin.com/pulse/evolution-concurrency-java-eric-kolotyluk/
+
+
+<div align="right">
+
+ | [Next &rarr;](Threads.md)
+</div>
